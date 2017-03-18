@@ -1,8 +1,8 @@
 {
   "name": "paper-datatable",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "authors": [
-    "David Mulder <david.mulder@ymail.com>"
+    "Tristan Smith <tristansmith587@gmail.com>"
   ],
   "description": "Material design data table.",
   "keywords": [
@@ -16,7 +16,7 @@
     "paper-datatable-card.html"
   ],
   "license": "http://www.gnu.org/licenses/gpl-3.0.en.html",
-  "homepage": "https://github.com/David Mulder/paper-datatable/",
+  "homepage": "https://github.com/tbone587/paper-datatable/",
   "ignore": [
     "/.*",
     "/test/"
