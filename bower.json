@@ -4,7 +4,7 @@
   "authors": [
     "Tristan Smith <tristansmith587@gmail.com>"
   ],
-  "description": "Material design data table.",
+  "description": "Material design data table. Extended from original paper-datatable",
   "keywords": [
     "web-component",
     "web-components",
